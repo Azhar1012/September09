@@ -9,6 +9,8 @@ It contains;
 
 3) Login screen
 
-4) Dashboard screen &
+4) Dashboard screen
 
-5) Settings screen
+5) Settings screen and
+
+6) Systems screen
