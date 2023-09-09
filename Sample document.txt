@@ -5,6 +5,8 @@ It contains;
 
 1) Login screen
 
-2) Registration screen &
+2) Registration screen
 
-3) Login screen
+3) Login screen &
+
+4) Dashboard screen
