@@ -1,0 +1,10 @@
+This is the First sample project application folder. 
+
+
+It contains; 
+
+1) Login screen
+
+2) Registration screen &
+
+3) Login screen
