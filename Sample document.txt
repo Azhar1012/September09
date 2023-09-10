@@ -1,7 +1,7 @@
-This is the First sample project application folder. 
+This is the First Consteed project application folder. 
 
 
-It contains; 
+which contains multiple module screens of application.
 
 1) Login screen
 
@@ -11,6 +11,8 @@ It contains;
 
 4) Dashboard screen
 
-5) Settings screen and
+5) Settings screen
 
-6) Systems screen
+6) Systems screen and
+
+7) Connect system screen.
